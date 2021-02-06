@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="UTest" skipped="0" tests="1" time="0.4" timestamp="2021-02-05 10:09:54"><testcase name="Crear un nuevo usuario."><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.choucair.test.prueba.stepdefinitions.UTestStepDefinitions.queOscaringresaalapaginadeutest(UTestStepDefinitions.java:24)&#13;
+✽.que Oscar ingresa a la pagina de utest(src/test/resources/features/uTest.feature:10)&#13;
+</system-err></testcase></testsuite>
